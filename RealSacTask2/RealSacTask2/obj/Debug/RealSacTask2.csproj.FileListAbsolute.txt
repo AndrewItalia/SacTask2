@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\RealSacTask2\RealSacTask2\obj\Debug\RealSacTask2.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\RealSacTask2\RealSacTask2\obj\Debug\RealSacTask2.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\RealSacTask2\RealSacTask2\obj\Debug\RealSacTask2.Form1.resources
+C:\Users\andre\source\repos\RealSacTask2\RealSacTask2\obj\Debug\RealSacTask2.Properties.Resources.resources
+C:\Users\andre\source\repos\RealSacTask2\RealSacTask2\obj\Debug\RealSacTask2.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\RealSacTask2\RealSacTask2\obj\Debug\RealSacTask2.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\RealSacTask2\RealSacTask2\bin\Debug\RealSacTask2.exe.config
+C:\Users\andre\source\repos\RealSacTask2\RealSacTask2\bin\Debug\RealSacTask2.exe
+C:\Users\andre\source\repos\RealSacTask2\RealSacTask2\bin\Debug\RealSacTask2.pdb
+C:\Users\andre\source\repos\RealSacTask2\RealSacTask2\obj\Debug\RealSacTask2.exe
+C:\Users\andre\source\repos\RealSacTask2\RealSacTask2\obj\Debug\RealSacTask2.pdb
